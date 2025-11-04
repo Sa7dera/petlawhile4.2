@@ -1,12 +1,11 @@
 
 
 
-let start=0;
+let start=10;
 
-while (start >=10){
+while (start >=1){
 
     console.log(`Odliczanie: ${start}`);
-    start++;
+    start--;
 }console.log("Start!");
 
-//nie wiem musze dokonczyc
